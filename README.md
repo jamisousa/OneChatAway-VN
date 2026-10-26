@@ -9,7 +9,7 @@
   <br/>
 
   <a href="https://github.com/jamisousa/unity-VN/releases/">
-    <img src="https://img.shields.io/badge/▶_PLAY_THE_GAME-8B5CF6?style=for-the-badge&logoColor=white" alt="Play the game"/>
+    <img src="https://img.shields.io/badge/▶_PLAY_THE_DEMO-8B5CF6?style=for-the-badge&logoColor=white" alt="Play the game"/>
   </a>
   <a href="https://github.com/jamisousa/unity-VN">
     <img src="https://img.shields.io/badge/EXPLORE_SOURCE-24212E?style=for-the-badge&logo=github&logoColor=white" alt="Explore source code"/>
@@ -340,7 +340,7 @@ else
   <br/><br/>
 
   <a href="https://github.com/jamisousa/unity-VN/releases/">
-    <img src="https://img.shields.io/badge/EXPERIENCE_THE_GAME-8B5CF6?style=for-the-badge&logo=unity&logoColor=white" alt="Experience the demo"/>
+    <img src="https://img.shields.io/badge/EXPERIENCE_THE_DEMO-8B5CF6?style=for-the-badge&logo=unity&logoColor=white" alt="Experience the demo"/>
   </a>
 
 </div>
