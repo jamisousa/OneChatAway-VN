@@ -1,4 +1,4 @@
-# ✦ Visual Novel Project
+# ✦ One Chat Away - Visual Novel Project
 
 <div align="center">
 
